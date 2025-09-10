@@ -1,0 +1,8 @@
+._separated {
+	margin-top: 1.5rem;
+}
+
+._visually-hidden {
+	position: fixed;
+	transform: scale(0);
+}

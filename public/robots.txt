@@ -1,0 +1,9 @@
+User-agent: *
+Host: https://netbiblio.ru
+Sitemap: https://netbiblio.ru/sitemap.xml
+Disallow: /search
+Disallow: /update.html
+Disallow: *?comments
+
+User-agent: Yandex
+Disallow: /amp

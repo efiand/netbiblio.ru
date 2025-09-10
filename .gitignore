@@ -1,0 +1,11 @@
+*.log
+*cache*
+*tmp*
+.DS_Store
+.env
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+Thumbs.db
+bundles
+node_modules
