@@ -33,13 +33,11 @@
 	transform: rotate(45deg);
 }
 
-@media (hover: hover) {
-	.nav-ring__link[href]:active {
-		background-color: transparent;
-		box-shadow:
-			inset -2px 2px #0000004d,
-			-1px 1px 1px #ffffff80;
-	}
+.nav-ring__link[href]:active {
+	background-color: transparent;
+	box-shadow:
+		inset -2px 2px #0000004d,
+		-1px 1px 1px #ffffff80;
 }
 
 @media (min-width: 768px) {
